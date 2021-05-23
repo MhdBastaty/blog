@@ -1,4 +1,21 @@
 body{
-    background-color: navy;
-    color: white;
+    background-color: white;
+    color: black;
+    width: 600px;
+    margin: auto;
+    font-family: sans-serif;
 }
+
+article + article {
+ 
+    margin-top: 3rem;
+    border-top:  #5c5c5c solid 1px ;
+    padding-top: 3rem;
+}
+
+p{
+    line-height: 1.6;
+    
+    
+}
+
